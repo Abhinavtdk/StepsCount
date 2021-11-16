@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleFitSensor</string>
+    <string name="calories">Calories</string>
+    <string name="kcal">Cal</string>
+</resources>
